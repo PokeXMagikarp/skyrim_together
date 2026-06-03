@@ -51,11 +51,12 @@ ccBGSSSE025-AdvDSGS.esm
 
 ccBGSSSE037-Curios.bsa
 
-4. run skyrimSE.exe to initialise then exit.
-5. go to Data/SkyrimTogetherReborn then launch SkyrimTogether.exe
-
 ccBGSSSE037-Curios.esl
 
 ccQDRSSE001-SurvivalMode.bsa
 
 ccQDRSSE001-SurvivalMode.esl
+
+
+4. run skyrimSE.exe to initialise then exit.
+5. go to Data/SkyrimTogetherReborn then launch SkyrimTogether.exe
