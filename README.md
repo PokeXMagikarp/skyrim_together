@@ -21,10 +21,9 @@ ccQDRSSE001-SurvivalMode.esl
 
 
 Manual install without nexus:
-1. download All in one (Anniversary Edition) [dw even tho we are using skyrimspecialedition itll still work] https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files
-2. download Skyrim Together Reborn https://www.nexusmods.com/skyrimspecialedition/mods/69993?tab=files
-3. unzip downloaded folders into data folder
-6.
+1. download All in one (Anniversary Edition) [dw even tho we are using skyrimspecialedition itll still work] https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files and unzip into skyrimSE folder
+2. download Skyrim Together Reborn https://www.nexusmods.com/skyrimspecialedition/mods/69993?tab=files and unzip into data folder
+3.
 go to C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data
 and delete these files:
 ccBGSSSE001-Fish.bsa
